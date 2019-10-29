@@ -18,7 +18,7 @@ public class SenaSalus {
         
        System.out.println("Cual es tu nombre");
        nom=nombre.next();
-       System.out.println(("Su nombre es:"+nom);
+       System.out.println("Su nombre es:"+nom);
        
         
         
